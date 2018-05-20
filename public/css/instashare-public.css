@@ -1,0 +1,81 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .instashare-link {
+    padding: 6px 12px !important;
+    color: #fff !important;
+    font-size: 0.9rem;
+    border-radius: 0px;
+    margin-right: 2px;
+    cursor: pointer;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    margin-top: 2px;
+    display: inline-block;
+    text-decoration: none;
+    box-shadow: none !important;
+}
+
+.instashare-link > i {
+	font-size: 1.0rem;
+}
+ 
+.instashare-link:hover, .instashare-link:active {
+    color: #fff !important;
+}
+ 
+.instashare-twitter {
+    background: #00aced;
+}
+ 
+.instashare-twitter:hover, .instashare-twitter:active {
+    background: #0084b4;
+}
+ 
+.instashare-facebook {
+    background: #3B5997;
+}
+ 
+.instashare-facebook:hover, .instashare-facebook:active {
+    background: #2d4372;
+}
+ 
+.instashare-google {
+    background: #D64937;
+}
+ 
+.instashare-google:hover, .instashare-google:active {
+    background: #b53525;
+}
+ 
+.instashare-buffer {
+    background: #444;
+}
+ 
+.instashare-buffer:hover, .instashare-buffer:active {
+    background: #222;
+}
+ 
+.instashare-pinterest {
+    background: #bd081c;
+}
+ 
+.instashare-pinterest:hover, .instashare-pinterest:active {
+    background: #bd081c;
+}
+ 
+.instashare-linkedin {
+    background: #0074A1;
+}
+ 
+.instashare-linkedin:hover, .instashare-linkedin:active {
+    background: #006288;
+}
+
+.instashare-social {
+    margin: 18px auto;
+    -webkit-font-smoothing: antialiased;
+    font-size: 0.8rem;
+}
