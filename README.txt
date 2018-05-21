@@ -46,3 +46,13 @@ If you are a programmer, feel free to clone the repository or make changes to th
 
 = 1.0 =
 * Initial release
+
+== Resources ==
+
+We wanted to add a section to provide link to some of the resources we used to make this plugin possible.
+
+Helpful resources:
+
+[Social Share URLs](https://github.com/bradvin/social-share-urls) - A helpful, open source list of the latest URLs for sharing content on social networks.
+
+[FontAwesome](https://fontawesome.com/) - A free resources for professional website and application icons.
