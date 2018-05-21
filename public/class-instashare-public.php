@@ -126,12 +126,12 @@ class Instashare_Public {
 			$instashare .= '<!-- InstaShare social sharing -->';
 			$instashare .= '<div class="instashare-social">';
 			$instashare .= '<div class="instashare-title">Share on:</div>';
-			$instashare .= '<a class="instashare-link instashare-twitter" href="'. $twitterUrl .'" target="_blank"><i class="fab fa-twitter"></i> Tweet</a>';
-			$instashare .= '<a class="instashare-link instashare-facebook" href="'.$facebookUrl.'" target="_blank"><i class="fab fa-facebook-f"></i> Share</a>';
-			$instashare .= '<a class="instashare-link instashare-linkedin" href="'.$linkedInUrl.'" target="_blank"><i class="fab fa-linkedin-in"></i> LinkedIn</a>';
+			$instashare .= '<a class="instashare-link instashare-twitter" href="'. $twitterUrl .'" target="_blank" rel="nofollow"><i class="fab fa-twitter"></i> Tweet</a>';
+			$instashare .= '<a class="instashare-link instashare-facebook" href="'.$facebookUrl.'" target="_blank" rel="nofollow"><i class="fab fa-facebook-f"></i> Share</a>';
+			$instashare .= '<a class="instashare-link instashare-linkedin" href="'.$linkedInUrl.'" target="_blank" rel="nofollow"><i class="fab fa-linkedin-in"></i> LinkedIn</a>';
 			$instashare .= '<a class="instashare-link instashare-google" href="'.$googleUrl.'" target="_blank"><i class="fab fa-google-plus-g"></i> </a>';
-			$instashare .= '<a class="instashare-link instashare-pinterest" href="'.$pinterestUrl.'" data-pin-custom="true" target="_blank"><i class="fab fa-pinterest-p"></i> Pin It</a>';
-			$instashare .= '<a class="instashare-link instashare-buffer" href="'.$bufferUrl.'" target="_blank">Buffer</a>';
+			$instashare .= '<a class="instashare-link instashare-pinterest" href="'.$pinterestUrl.'" data-pin-custom="true" target="_blank" rel="nofollow"><i class="fab fa-pinterest-p"></i> Pin It</a>';
+			$instashare .= '<a class="instashare-link instashare-buffer" href="'.$bufferUrl.'" target="_blank" rel="nofollow">Buffer</a>';
 			$instashare .= '</div>';
 			
 			$content .= $instashare;

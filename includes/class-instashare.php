@@ -186,7 +186,7 @@ class Instashare {
 	}
 
 	/**
-	 * Define the Social Networkk sharing links
+	 * Define the Social Network sharing links - future development
 	 *
 	 * @since    1.0.0
 	 */
