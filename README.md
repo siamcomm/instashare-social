@@ -11,6 +11,8 @@ We have purposely excluded the Home page for inclusion of the buttons. The scrip
 Please keep in mind this is a very simple implementation. There are no Admin settings or configuration pages.
 If you wish to have any social networks added that are not shown, please send me a message and I will add these.
 
+The official [WordPress plugin repository is here](https://wordpress.org/plugins/instashare/).
+
 ## Installation
 
 This section describes how to install the plugin and get it working.

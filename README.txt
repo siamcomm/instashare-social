@@ -24,7 +24,7 @@ This section describes how to install the plugin and get it working.
 
 1. Upload the `instashare` folder to the `/wp-content/plugins/` directory of your WordPress installation
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Congratulations! Visit a post or p[age to see your new buttons at the bottom.]
+3. Congratulations! Visit a post or page to see your new buttons at the bottom.
 
 == Frequently Asked Questions ==
 
