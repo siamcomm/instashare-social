@@ -16,7 +16,7 @@
  * Plugin Name:       InstaShare
  * Plugin URI:        https://github.com/siamcomm/instashare
  * Description:       This plugin adds Social Sharing buttons to the bottom of content in pages and posts, so your visitors can share your website's content.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            Siam Communications
  * Author URI:        https://siamcomm.com
  * License:           GPL-2.0+
